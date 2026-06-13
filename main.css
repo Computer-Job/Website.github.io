@@ -52,7 +52,7 @@ button {
 }
 
 .thumbnail {
-    width: 300px;
+    width: auto;
     height: auto;
 }
 
