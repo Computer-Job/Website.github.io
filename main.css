@@ -55,3 +55,10 @@ button {
     width: 300px;
     height: auto;
 }
+
+.search-bar {
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+    display: block;
+}
