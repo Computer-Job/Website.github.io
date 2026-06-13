@@ -52,8 +52,8 @@ button {
 }
 
 .thumbnail {
-    width: auto;
-    height: auto;
+    width: 256px;
+    height: 256px;
 }
 
 .search-bar {
