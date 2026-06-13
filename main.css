@@ -50,3 +50,7 @@ button {
     box-shadow: horizontal vertical blur color;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
 }
+
+.thumbnail {
+    width: 300px;
+}
